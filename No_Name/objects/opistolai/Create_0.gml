@@ -1,0 +1,1 @@
+global.pis_charged = false
